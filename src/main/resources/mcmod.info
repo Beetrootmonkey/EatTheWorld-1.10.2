@@ -1,0 +1,16 @@
+[
+{
+  "modid": "eattheworld",
+  "name": "EatTheWorld",
+  "description": "Food extension mod that tries to fill several vanilla gaps.",
+  "version": "0.1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Beetrootmonkey"],
+  "credits": "The Forge and FML guys, for making this possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
