@@ -33,8 +33,8 @@ public class ModRecipes {
 	public static void addRecipes() {
 
 		if (Config.fuelPellet) {
-			GameRegistry.addShapelessRecipe(new ItemStack(ModItems.pelletFuel, 8), new ItemStack(Items.COAL));
-			GameRegistry.addShapelessRecipe(new ItemStack(ModItems.pelletFuel, 8), new ItemStack(Items.COAL, 1, 1));
+			GameRegistry.addShapelessRecipe(new ItemStack(ModItems.fuel_pellet, 8), new ItemStack(Items.COAL));
+			GameRegistry.addShapelessRecipe(new ItemStack(ModItems.fuel_pellet, 8), new ItemStack(Items.COAL, 1, 1));
 		}
 
 		// smelting recipes
