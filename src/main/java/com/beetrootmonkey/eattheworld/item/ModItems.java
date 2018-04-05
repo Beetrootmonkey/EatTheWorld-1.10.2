@@ -86,7 +86,7 @@ public class ModItems {
 		raw_cat = register(new ItemModFood("raw_cat", 1, 1f));
 		raw_cookie = register(new ItemModFood("raw_cookie", 1, 1f));
 		raw_dragon = register(new ItemModFood("raw_dragon", 1, 1f));
-		raw_endermite = register(new ItemModFood("raw_endermite", 1, 1f));
+//		raw_endermite = register(new ItemModFood("raw_endermite", 1, 1f));
 		raw_ghast = register(new ItemModFood("raw_ghast", 1, 1f));
 		raw_guardian = register(new ItemModFood("raw_guardian", 1, 1f));
 		raw_horse = register(new ItemModFood("raw_horse", 3, 1.8f));
@@ -98,7 +98,7 @@ public class ModItems {
 				new PotionEffect(Potion.getPotionFromResourceLocation("minecraft:hunger"), 600, 0),
 				0.8f));
 		raw_wolf = register(new ItemBase("raw_wolf"));
-		withered_bone = register(new ItemBase("witheredBone"));
+		withered_bone = register(new ItemBase("withered_bone"));
 		
 		
 		
