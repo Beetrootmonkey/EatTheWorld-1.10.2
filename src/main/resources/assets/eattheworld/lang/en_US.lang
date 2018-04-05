@@ -1,18 +1,28 @@
 # Items
-item.cookedHorse.name=Cooked Horse Meat
-item.cookedSpiderEye.name=Cooked Spider Eye
-item.cookedVillager.name=Cooked Flesh
-item.copperAxe.name=Copper Axe
-item.gelatin.name=Gelatin
-item.ingotCopper.name=Copper Ingot
+item.cocoa_powder.name=Cocoa Powder
+item.cooked_bat.name=Delicious Steak
+item.cooked_cat.name=Delicious Steak
+item.cooked_dragon.name=Cooked Dragon Meat
+item.cooked_guardian.name=Guardian Filet
+item.cookedHorse.name=Delicious Steak
+item.cooked_shulker.name=Cooked Shulker
+item.cooked_silverfish.name="Shrimp"
+item.cooked_spider_eye.name=Cooked Spider Eye
+item.cooked_spider_leg.name=Cooked Spider Leg
+item.cooked_squid.name=Cooked Squid
+item.cooked_villager.name=Delicious Steak
+item.cooked_wolf.name=Delicious Steak
+item.dough.name=Dough
+item.fat.name=Fat
+item.flour.name=Flour
 item.pelletFuel.name=Fuel Pellet
+item.gelatin.name=Gelatin
+item.horse_hair.name=Horse Hair
+item.jelly_cube.name=Jelly
+item.raw_bat.name=Raw Bat Meat
 item.rawHorse.name=Raw Horse Meat
 item.rawVillager.name=Raw Flesh
-item.chunkCopper.name=Copper Ore Chunk
-item.helmetCopper.name=Copper Helmet
-item.chestplateCopper.name=Copper Chestplate
-item.leggingsCopper.name=Copper Leggings
-item.bootsCopper.name=Copper Boots
+
 
 
 # Blocks
@@ -21,4 +31,4 @@ tile.gold_brick.name=Gold Brick
 tile.glowstone.name=Glowstone
 
 # Mod title
-itemGroup.myutils=MyUtils
+itemGroup.eattheworld=Eat The World
