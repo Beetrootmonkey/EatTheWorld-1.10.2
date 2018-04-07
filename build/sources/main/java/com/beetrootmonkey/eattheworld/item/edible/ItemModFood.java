@@ -26,7 +26,11 @@ public class ItemModFood extends ItemFood implements ItemModelProvider {
 	}
 
 	public ItemModFood(String name, int amount, float saturation) {
-		super(amount, saturation / amount / 2, false);
+		this(name, amount, saturation, false);
+	}
+	
+	public ItemModFood(String name, int amount, float saturation, boolean isWolfFood) {
+		super(amount, saturation / amount / 2, isWolfFood);
 		this.name = name;
 		setUnlocalizedName(name);
 		setRegistryName(name);

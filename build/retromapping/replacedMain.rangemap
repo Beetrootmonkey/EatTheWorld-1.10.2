@@ -1,6 +1,7 @@
 Symbol range map extraction starting
 Processing 29 files
 startProcessing "com\beetrootmonkey\eattheworld\block\BlockBase.java" md5: 857ca81e8eb9aa0e0bee5c5ca935198f
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\block\BlockBase.java|8|44|com.beetrootmonkey.eattheworld.block|package|com.beetrootmonkey.eattheworld.block|(file)
 Class Start: com.beetrootmonkey.eattheworld.block.BlockBase
    @|com\beetrootmonkey\eattheworld\block\BlockBase.java|376|385|BlockBase|class|com.beetrootmonkey.eattheworld.block.BlockBase
@@ -66,6 +67,7 @@ Class End  : com.beetrootmonkey.eattheworld.block.BlockBase
 endProcessing "com\beetrootmonkey\eattheworld\block\BlockBase.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\block\BlockGlowstone.java" md5: bf84ed1162ccebc48bdd8255af69ee7a
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\block\BlockGlowstone.java|8|44|com.beetrootmonkey.eattheworld.block|package|com.beetrootmonkey.eattheworld.block|(file)
 Class Start: com.beetrootmonkey.eattheworld.block.BlockGlowstone
    @|com\beetrootmonkey\eattheworld\block\BlockGlowstone.java|744|758|BlockGlowstone|class|com.beetrootmonkey.eattheworld.block.BlockGlowstone
@@ -146,6 +148,7 @@ Class End  : com.beetrootmonkey.eattheworld.block.BlockGlowstone
 endProcessing "com\beetrootmonkey\eattheworld\block\BlockGlowstone.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\block\ModBlocks.java" md5: a5147ee3ca2ac62eaa8b691c6fdb9513
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\block\ModBlocks.java|8|44|com.beetrootmonkey.eattheworld.block|package|com.beetrootmonkey.eattheworld.block|(file)
 Class Start: com.beetrootmonkey.eattheworld.block.ModBlocks
    @|com\beetrootmonkey\eattheworld\block\ModBlocks.java|404|413|ModBlocks|class|com.beetrootmonkey.eattheworld.block.ModBlocks
@@ -190,6 +193,7 @@ Class End  : com.beetrootmonkey.eattheworld.block.ModBlocks
 endProcessing "com\beetrootmonkey\eattheworld\block\ModBlocks.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\client\ModTab.java" md5: 17f9e49dfa10f49ec8c84a3c1859e0d7
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\client\ModTab.java|8|45|com.beetrootmonkey.eattheworld.client|package|com.beetrootmonkey.eattheworld.client|(file)
 Class Start: com.beetrootmonkey.eattheworld.client.ModTab
    @|com\beetrootmonkey\eattheworld\client\ModTab.java|305|311|ModTab|class|com.beetrootmonkey.eattheworld.client.ModTab
@@ -214,6 +218,7 @@ Class End  : com.beetrootmonkey.eattheworld.client.ModTab
 endProcessing "com\beetrootmonkey\eattheworld\client\ModTab.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\config\Config.java" md5: 5229736f2c5538909d117310404e1678
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\config\Config.java|8|45|com.beetrootmonkey.eattheworld.config|package|com.beetrootmonkey.eattheworld.config|(file)
 Class Start: com.beetrootmonkey.eattheworld.config.Config
    @|com\beetrootmonkey\eattheworld\config\Config.java|329|335|Config|class|com.beetrootmonkey.eattheworld.config.Config
@@ -320,6 +325,7 @@ Class End  : com.beetrootmonkey.eattheworld.config.Config
 endProcessing "com\beetrootmonkey\eattheworld\config\Config.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\config\ConfigGUIFactory.java" md5: 8dddd5a539e5b67362142e9bd9ae2c71
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\config\ConfigGUIFactory.java|8|45|com.beetrootmonkey.eattheworld.config|package|com.beetrootmonkey.eattheworld.config|(file)
 Class Start: com.beetrootmonkey.eattheworld.config.ConfigGUIFactory
    @|com\beetrootmonkey\eattheworld\config\ConfigGUIFactory.java|1175|1191|ConfigGUIFactory|class|com.beetrootmonkey.eattheworld.config.ConfigGUIFactory
@@ -414,6 +420,7 @@ Class End  : com.beetrootmonkey.eattheworld.config.ConfigGUIFactory
 endProcessing "com\beetrootmonkey\eattheworld\config\ConfigGUIFactory.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\config\ConfigLoader.java" md5: 0edcfa933d7ec05aebc7535f8b262a1c
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\config\ConfigLoader.java|8|45|com.beetrootmonkey.eattheworld.config|package|com.beetrootmonkey.eattheworld.config|(file)
 Class Start: com.beetrootmonkey.eattheworld.config.ConfigLoader
    @|com\beetrootmonkey\eattheworld\config\ConfigLoader.java|452|474|Mod.EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber
@@ -754,6 +761,7 @@ Class End  : com.beetrootmonkey.eattheworld.config.ConfigLoader
 endProcessing "com\beetrootmonkey\eattheworld\config\ConfigLoader.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\crafting\ModRecipes.java" md5: eff6d49f02f31a3df7834cd99091f897
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\crafting\ModRecipes.java|8|47|com.beetrootmonkey.eattheworld.crafting|package|com.beetrootmonkey.eattheworld.crafting|(file)
 Class Start: com.beetrootmonkey.eattheworld.crafting.ModRecipes
    @|com\beetrootmonkey\eattheworld\crafting\ModRecipes.java|1207|1225|EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber
@@ -1382,6 +1390,7 @@ Class End  : com.beetrootmonkey.eattheworld.crafting.ModRecipes
 endProcessing "com\beetrootmonkey\eattheworld\crafting\ModRecipes.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\drops\DropHandlerBlock.java" md5: 303c46896ad6074e565d6f4353abf435
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\drops\DropHandlerBlock.java|8|44|com.beetrootmonkey.eattheworld.drops|package|com.beetrootmonkey.eattheworld.drops|(file)
 Class Start: com.beetrootmonkey.eattheworld.drops.DropHandlerBlock
    @|com\beetrootmonkey\eattheworld\drops\DropHandlerBlock.java|1535|1551|DropHandlerBlock|class|com.beetrootmonkey.eattheworld.drops.DropHandlerBlock
@@ -1426,6 +1435,7 @@ Class End  : com.beetrootmonkey.eattheworld.drops.DropHandlerBlock
 endProcessing "com\beetrootmonkey\eattheworld\drops\DropHandlerBlock.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\drops\DropHandlerEntity.java" md5: b39f55fe8ed261da82831553e6343d2b
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\drops\DropHandlerEntity.java|8|44|com.beetrootmonkey.eattheworld.drops|package|com.beetrootmonkey.eattheworld.drops|(file)
 Class Start: com.beetrootmonkey.eattheworld.drops.DropHandlerEntity
    @|com\beetrootmonkey\eattheworld\drops\DropHandlerEntity.java|1670|1687|DropHandlerEntity|class|com.beetrootmonkey.eattheworld.drops.DropHandlerEntity
@@ -1692,6 +1702,7 @@ Class End  : com.beetrootmonkey.eattheworld.drops.DropHandlerEntity
 endProcessing "com\beetrootmonkey\eattheworld\drops\DropHandlerEntity.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\init\EatTheWorld.java" md5: e9b86bbdf7fbd1392d36e09ab57c84b6
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\init\EatTheWorld.java|8|43|com.beetrootmonkey.eattheworld.init|package|com.beetrootmonkey.eattheworld.init|(file)
 Class Start: com.beetrootmonkey.eattheworld.init.EatTheWorld
    @|com\beetrootmonkey\eattheworld\init\EatTheWorld.java|1002|1005|Mod|class|net.minecraftforge.fml.common.Mod
@@ -1765,6 +1776,7 @@ Class End  : com.beetrootmonkey.eattheworld.init.EatTheWorld
 endProcessing "com\beetrootmonkey\eattheworld\init\EatTheWorld.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\init\ModLootTables.java" md5: c5efa47b21a4eebc03a700576bfaff21
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\init\ModLootTables.java|8|43|com.beetrootmonkey.eattheworld.init|package|com.beetrootmonkey.eattheworld.init|(file)
 Class Start: com.beetrootmonkey.eattheworld.init.ModLootTables
    @|com\beetrootmonkey\eattheworld\init\ModLootTables.java|159|172|ModLootTables|class|com.beetrootmonkey.eattheworld.init.ModLootTables
@@ -1788,6 +1800,7 @@ Class End  : com.beetrootmonkey.eattheworld.init.ModLootTables
 endProcessing "com\beetrootmonkey\eattheworld\init\ModLootTables.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\init\Reference.java" md5: 03da8798313f266305b60761f10d07ea
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\init\Reference.java|8|43|com.beetrootmonkey.eattheworld.init|package|com.beetrootmonkey.eattheworld.init|(file)
 Class Start: com.beetrootmonkey.eattheworld.init.Reference
    @|com\beetrootmonkey\eattheworld\init\Reference.java|68|77|Reference|class|com.beetrootmonkey.eattheworld.init.Reference
@@ -1810,6 +1823,7 @@ Class End  : com.beetrootmonkey.eattheworld.init.Reference
 endProcessing "com\beetrootmonkey\eattheworld\init\Reference.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\item\ItemBase.java" md5: 2560d01eca2bea4780ffc118c9695410
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\item\ItemBase.java|8|43|com.beetrootmonkey.eattheworld.item|package|com.beetrootmonkey.eattheworld.item|(file)
 Class Start: com.beetrootmonkey.eattheworld.item.ItemBase
    @|com\beetrootmonkey\eattheworld\item\ItemBase.java|196|204|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
@@ -1846,6 +1860,7 @@ Class End  : com.beetrootmonkey.eattheworld.item.ItemBase
 endProcessing "com\beetrootmonkey\eattheworld\item\ItemBase.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\item\ItemModelProvider.java" md5: a4c60ff8535210306d62899dae0e1234
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\item\ItemModelProvider.java|8|43|com.beetrootmonkey.eattheworld.item|package|com.beetrootmonkey.eattheworld.item|(file)
 Class Start: com.beetrootmonkey.eattheworld.item.ItemModelProvider
    @|com\beetrootmonkey\eattheworld\item\ItemModelProvider.java|96|113|ItemModelProvider|class|com.beetrootmonkey.eattheworld.item.ItemModelProvider
@@ -1857,7 +1872,7 @@ Class Start: com.beetrootmonkey.eattheworld.item.ItemModelProvider
 Class End  : com.beetrootmonkey.eattheworld.item.ItemModelProvider
 endProcessing "com\beetrootmonkey\eattheworld\item\ItemModelProvider.java"
 
-startProcessing "com\beetrootmonkey\eattheworld\item\ModItems.java" md5: 73c02c32cd5979dc31e0d03ee69e9508
+startProcessing "com\beetrootmonkey\eattheworld\item\ModItems.java" md5: f827d0c62a6be9a2d39cba8ab4f5123c
 @|com\beetrootmonkey\eattheworld\item\ModItems.java|8|43|com.beetrootmonkey.eattheworld.item|package|com.beetrootmonkey.eattheworld.item|(file)
 Class Start: com.beetrootmonkey.eattheworld.item.ModItems
    @|com\beetrootmonkey\eattheworld\item\ModItems.java|1060|1068|ModItems|class|com.beetrootmonkey.eattheworld.item.ModItems
@@ -1980,148 +1995,191 @@ Class Start: com.beetrootmonkey.eattheworld.item.ModItems
       @|com\beetrootmonkey\eattheworld\item\ModItems.java|2383|2393|cooked_bat|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_bat
       @|com\beetrootmonkey\eattheworld\item\ModItems.java|2396|2404|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
       @|com\beetrootmonkey\eattheworld\item\ModItems.java|2409|2420|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2446|2456|cooked_cat|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_cat
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2459|2467|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2472|2483|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2509|2522|cooked_dragon|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_dragon
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2525|2533|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2538|2549|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2655|2670|cooked_guardian|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_guardian
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2673|2681|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2686|2697|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2728|2740|cooked_horse|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_horse
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2743|2751|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2756|2767|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2798|2812|cooked_shulker|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_shulker
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2815|2823|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2828|2839|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2869|2886|cooked_silverfish|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_silverfish
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2889|2897|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2902|2913|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2946|2963|cooked_spider_eye|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_spider_eye
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2966|2974|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2979|2990|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3023|3040|cooked_spider_leg|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_spider_leg
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3043|3051|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3056|3067|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3100|3112|cooked_squid|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_squid
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3115|3123|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3128|3139|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3167|3182|cooked_villager|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_villager
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3185|3193|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3198|3209|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3242|3253|cooked_wolf|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_wolf
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3256|3264|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3269|3280|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3307|3312|dough|field|com.beetrootmonkey.eattheworld.item.ModItems|dough
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3315|3323|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3328|3336|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3350|3353|fat|field|com.beetrootmonkey.eattheworld.item.ModItems|fat
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3356|3364|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3369|3377|ItemFuel|class|com.beetrootmonkey.eattheworld.item.fuel.ItemFuel
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3385|3399|Config.Recipes|class|com.beetrootmonkey.eattheworld.config.Config.Recipes
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3400|3409|fatAsFuel|field|com.beetrootmonkey.eattheworld.config.Config.Recipes|fatAsFuel
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3415|3420|flour|field|com.beetrootmonkey.eattheworld.item.ModItems|flour
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3423|3431|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3436|3444|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3458|3469|fuel_pellet|field|com.beetrootmonkey.eattheworld.item.ModItems|fuel_pellet
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3472|3480|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3485|3493|ItemFuel|class|com.beetrootmonkey.eattheworld.item.fuel.ItemFuel
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3518|3525|gelatin|field|com.beetrootmonkey.eattheworld.item.ModItems|gelatin
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3528|3536|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3541|3549|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3565|3575|horse_hair|field|com.beetrootmonkey.eattheworld.item.ModItems|horse_hair
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3578|3586|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3591|3599|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3618|3628|jelly_cube|field|com.beetrootmonkey.eattheworld.item.ModItems|jelly_cube
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3631|3639|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3644|3652|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3671|3678|raw_bat|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_bat
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3681|3689|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3694|3705|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3730|3739|raw_bread|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_bread
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3742|3750|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3755|3763|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3781|3788|raw_cat|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_cat
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3791|3799|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3804|3815|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3840|3850|raw_cookie|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_cookie
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3853|3861|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3866|3877|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3905|3915|raw_dragon|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_dragon
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3918|3926|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3931|3942|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4039|4048|raw_ghast|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_ghast
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4051|4059|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4064|4075|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4100|4112|raw_guardian|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_guardian
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4115|4123|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4128|4139|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4169|4178|raw_horse|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_horse
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4181|4189|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4194|4205|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4232|4243|raw_shulker|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_shulker
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4246|4254|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4259|4270|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4299|4313|raw_silverfish|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_silverfish
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4316|4324|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4329|4340|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4372|4386|raw_spider_leg|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_spider_leg
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4389|4397|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4402|4413|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4445|4454|raw_squid|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_squid
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4457|4465|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4470|4481|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4508|4520|raw_villager|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_villager
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4523|4531|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4536|4547|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4577|4585|raw_wolf|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_wolf
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4588|4596|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4601|4612|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4638|4651|withered_bone|field|com.beetrootmonkey.eattheworld.item.ModItems|withered_bone
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4654|4662|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4667|4675|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2452|2462|cooked_cat|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_cat
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2465|2473|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2478|2489|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2521|2534|cooked_dragon|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_dragon
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2537|2545|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2550|2561|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2673|2688|cooked_guardian|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_guardian
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2691|2699|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2704|2715|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2752|2764|cooked_horse|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_horse
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2767|2775|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2780|2791|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2828|2842|cooked_shulker|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_shulker
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2845|2853|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2858|2869|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2905|2922|cooked_silverfish|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_silverfish
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2925|2933|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2938|2949|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|2988|3005|cooked_spider_eye|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_spider_eye
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3008|3016|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3021|3032|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3071|3088|cooked_spider_leg|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_spider_leg
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3091|3099|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3104|3115|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3154|3166|cooked_squid|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_squid
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3169|3177|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3182|3193|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3227|3242|cooked_villager|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_villager
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3245|3253|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3258|3269|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3308|3319|cooked_wolf|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_wolf
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3322|3330|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3335|3346|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3379|3384|dough|field|com.beetrootmonkey.eattheworld.item.ModItems|dough
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3387|3395|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3400|3408|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3422|3425|fat|field|com.beetrootmonkey.eattheworld.item.ModItems|fat
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3428|3436|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3441|3449|ItemFuel|class|com.beetrootmonkey.eattheworld.item.fuel.ItemFuel
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3457|3471|Config.Recipes|class|com.beetrootmonkey.eattheworld.config.Config.Recipes
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3472|3481|fatAsFuel|field|com.beetrootmonkey.eattheworld.config.Config.Recipes|fatAsFuel
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3487|3492|flour|field|com.beetrootmonkey.eattheworld.item.ModItems|flour
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3495|3503|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3508|3516|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3530|3541|fuel_pellet|field|com.beetrootmonkey.eattheworld.item.ModItems|fuel_pellet
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3544|3552|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3557|3565|ItemFuel|class|com.beetrootmonkey.eattheworld.item.fuel.ItemFuel
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3590|3597|gelatin|field|com.beetrootmonkey.eattheworld.item.ModItems|gelatin
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3600|3608|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3613|3621|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3637|3647|horse_hair|field|com.beetrootmonkey.eattheworld.item.ModItems|horse_hair
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3650|3658|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3663|3671|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3690|3700|jelly_cube|field|com.beetrootmonkey.eattheworld.item.ModItems|jelly_cube
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3703|3711|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3716|3724|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3743|3750|raw_bat|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_bat
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3753|3761|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3766|3777|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3808|3817|raw_bread|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_bread
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3820|3828|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3833|3841|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3859|3866|raw_cat|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_cat
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3869|3877|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3882|3893|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3924|3934|raw_cookie|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_cookie
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3937|3945|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3950|3961|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|3989|3999|raw_dragon|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_dragon
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4002|4010|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4015|4026|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4129|4138|raw_ghast|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_ghast
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4141|4149|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4154|4165|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4196|4208|raw_guardian|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_guardian
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4211|4219|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4224|4235|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4271|4280|raw_horse|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_horse
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4283|4291|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4296|4307|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4340|4351|raw_shulker|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_shulker
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4354|4362|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4367|4378|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4413|4427|raw_silverfish|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_silverfish
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4430|4438|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4443|4454|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4492|4506|raw_spider_leg|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_spider_leg
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4509|4517|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4522|4533|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4571|4580|raw_squid|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_squid
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4583|4591|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4596|4607|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4640|4652|raw_villager|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_villager
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4655|4663|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4668|4679|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4715|4723|raw_wolf|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_wolf
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4726|4734|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4739|4750|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4782|4795|withered_bone|field|com.beetrootmonkey.eattheworld.item.ModItems|withered_bone
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4798|4806|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4811|4819|ItemBase|class|com.beetrootmonkey.eattheworld.item.ItemBase
    Method End: init()V
    Method Start: register(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4769|4773|item|param|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;|item|0
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4750|4754|Item|class|net.minecraft.item.Item
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4758|4766|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4779|4791|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4792|4800|register|method|net.minecraftforge.fml.common.registry.GameRegistry|register|(Lnet/minecraftforge/fml/common/registry/IForgeRegistryEntry;)Lnet/minecraftforge/fml/common/registry/IForgeRegistryEntry;
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4801|4805|item|param|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;|item|0
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4815|4819|item|param|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;|item|0
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4831|4848|ItemModelProvider|class|com.beetrootmonkey.eattheworld.item.ItemModelProvider
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4857|4874|ItemModelProvider|class|com.beetrootmonkey.eattheworld.item.ItemModelProvider
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4876|4880|item|param|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;|item|0
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4882|4899|registerItemModel|method|com.beetrootmonkey.eattheworld.item.ItemModelProvider|registerItemModel|(Lnet/minecraft/item/Item;)V
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4900|4904|item|param|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;|item|0
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4921|4925|item|param|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;|item|0
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4913|4917|item|param|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;|item|0
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4894|4898|Item|class|net.minecraft.item.Item
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4902|4910|register|method|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4923|4935|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4936|4944|register|method|net.minecraftforge.fml.common.registry.GameRegistry|register|(Lnet/minecraftforge/fml/common/registry/IForgeRegistryEntry;)Lnet/minecraftforge/fml/common/registry/IForgeRegistryEntry;
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4945|4949|item|param|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;|item|0
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4959|4963|item|param|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;|item|0
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4975|4992|ItemModelProvider|class|com.beetrootmonkey.eattheworld.item.ItemModelProvider
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5001|5018|ItemModelProvider|class|com.beetrootmonkey.eattheworld.item.ItemModelProvider
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5020|5024|item|param|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;|item|0
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5026|5043|registerItemModel|method|com.beetrootmonkey.eattheworld.item.ItemModelProvider|registerItemModel|(Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5044|5048|item|param|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;|item|0
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5065|5069|item|param|com.beetrootmonkey.eattheworld.item.ModItems|register|(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;|item|0
    Method End: register(Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;
    Method Start: registerOres()V
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4952|4964|registerOres|method|com.beetrootmonkey.eattheworld.item.ModItems|registerOres|()V
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4971|4984|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|4985|4996|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5008|5011|fat|field|com.beetrootmonkey.eattheworld.item.ModItems|fat
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5016|5029|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5030|5041|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5061|5073|cocoa_powder|field|com.beetrootmonkey.eattheworld.item.ModItems|cocoa_powder
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5078|5091|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5092|5103|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5117|5122|dough|field|com.beetrootmonkey.eattheworld.item.ModItems|dough
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5127|5140|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5141|5152|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5166|5171|flour|field|com.beetrootmonkey.eattheworld.item.ModItems|flour
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5176|5189|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5190|5201|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5215|5220|flour|field|com.beetrootmonkey.eattheworld.item.ModItems|flour
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5225|5238|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5239|5250|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
-      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5264|5271|gelatin|field|com.beetrootmonkey.eattheworld.item.ModItems|gelatin
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5096|5108|registerOres|method|com.beetrootmonkey.eattheworld.item.ModItems|registerOres|()V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5115|5128|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5129|5140|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5159|5166|raw_cat|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_cat
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5171|5184|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5185|5196|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5215|5225|raw_dragon|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_dragon
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5230|5243|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5244|5255|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5274|5283|raw_ghast|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_ghast
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5288|5301|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5302|5313|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5332|5341|raw_horse|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_horse
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5346|5359|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5360|5371|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5390|5402|raw_villager|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_villager
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5407|5420|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5421|5432|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5451|5459|raw_wolf|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_wolf
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5465|5478|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5479|5490|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5509|5521|raw_guardian|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_guardian
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5526|5539|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5540|5551|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5570|5579|raw_squid|field|com.beetrootmonkey.eattheworld.item.ModItems|raw_squid
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5587|5600|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5601|5612|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5634|5644|cooked_cat|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_cat
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5649|5662|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5663|5674|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5696|5709|cooked_dragon|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_dragon
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5714|5727|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5728|5739|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5761|5773|cooked_horse|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_horse
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5778|5791|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5792|5803|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5825|5840|cooked_villager|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_villager
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5845|5858|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5859|5870|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5892|5903|cooked_wolf|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_wolf
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5909|5922|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5923|5934|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5956|5971|cooked_guardian|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_guardian
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5976|5989|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|5990|6001|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6023|6035|cooked_squid|field|com.beetrootmonkey.eattheworld.item.ModItems|cooked_squid
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6043|6056|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6057|6068|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6080|6083|fat|field|com.beetrootmonkey.eattheworld.item.ModItems|fat
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6088|6101|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6102|6113|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6133|6145|cocoa_powder|field|com.beetrootmonkey.eattheworld.item.ModItems|cocoa_powder
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6150|6163|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6164|6175|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6189|6194|dough|field|com.beetrootmonkey.eattheworld.item.ModItems|dough
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6199|6212|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6213|6224|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6238|6243|flour|field|com.beetrootmonkey.eattheworld.item.ModItems|flour
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6248|6261|OreDictionary|class|net.minecraftforge.oredict.OreDictionary
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6262|6273|registerOre|method|net.minecraftforge.oredict.OreDictionary|registerOre|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\ModItems.java|6287|6294|gelatin|field|com.beetrootmonkey.eattheworld.item.ModItems|gelatin
    Method End: registerOres()V
 Class End  : com.beetrootmonkey.eattheworld.item.ModItems
 endProcessing "com\beetrootmonkey\eattheworld\item\ModItems.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\item\armor\ItemModArmor.java" md5: 398e884783c5bc157268753f42fba4d1
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\item\armor\ItemModArmor.java|8|49|com.beetrootmonkey.eattheworld.item.armor|package|com.beetrootmonkey.eattheworld.item.armor|(file)
 Class Start: com.beetrootmonkey.eattheworld.item.armor.ItemModArmor
    @|com\beetrootmonkey\eattheworld\item\armor\ItemModArmor.java|306|318|ItemModArmor|class|com.beetrootmonkey.eattheworld.item.armor.ItemModArmor
@@ -2161,6 +2219,7 @@ Class End  : com.beetrootmonkey.eattheworld.item.armor.ItemModArmor
 endProcessing "com\beetrootmonkey\eattheworld\item\armor\ItemModArmor.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\item\edible\ItemBuff.java" md5: 2e0d828d948922e9d705d47160abe8d8
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\item\edible\ItemBuff.java|8|50|com.beetrootmonkey.eattheworld.item.edible|package|com.beetrootmonkey.eattheworld.item.edible|(file)
 Class Start: com.beetrootmonkey.eattheworld.item.edible.ItemBuff
    @|com\beetrootmonkey\eattheworld\item\edible\ItemBuff.java|604|612|ItemBuff|class|com.beetrootmonkey.eattheworld.item.edible.ItemBuff
@@ -2212,7 +2271,8 @@ Class Start: com.beetrootmonkey.eattheworld.item.edible.ItemBuff
 Class End  : com.beetrootmonkey.eattheworld.item.edible.ItemBuff
 endProcessing "com\beetrootmonkey\eattheworld\item\edible\ItemBuff.java"
 
-startProcessing "com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java" md5: 157a4c728644e4bfabe0ff3de16cc938
+startProcessing "com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java" md5: 09b9a0b3320cabeb821939e35a69c9cd
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|8|50|com.beetrootmonkey.eattheworld.item.edible|package|com.beetrootmonkey.eattheworld.item.edible|(file)
 Class Start: com.beetrootmonkey.eattheworld.item.edible.ItemModFood
    @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|604|615|ItemModFood|class|com.beetrootmonkey.eattheworld.item.edible.ItemModFood
@@ -2241,33 +2301,46 @@ Class Start: com.beetrootmonkey.eattheworld.item.edible.ItemModFood
       @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|877|887|saturation|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IF)V|saturation|2
       @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|834|845|ItemModFood|method|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IF)V
       @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|846|852|String|class|java.lang.String
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|899|905|amount|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IF)V|amount|1
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|907|917|saturation|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IF)V|saturation|2
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|920|926|amount|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IF)V|amount|1
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|947|951|name|field|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|name
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|954|958|name|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IF)V|name|0
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|962|980|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|981|985|name|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IF)V|name|0
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|990|1005|setRegistryName|method|net.minecraftforge.fml.common.registry.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/fml/common/registry/IForgeRegistryEntry;
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1006|1010|name|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IF)V|name|0
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1015|1029|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1030|1041|EatTheWorld|class|com.beetrootmonkey.eattheworld.init.EatTheWorld
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1042|1053|creativeTab|field|com.beetrootmonkey.eattheworld.init.EatTheWorld|creativeTab
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|898|902|name|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IF)V|name|0
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|904|910|amount|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IF)V|amount|1
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|912|922|saturation|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IF)V|saturation|2
    Method End: ItemModFood(Ljava/lang/String;IF)V
+   Method Start: ItemModFood(Ljava/lang/String;IFZ)V
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|964|968|name|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IFZ)V|name|0
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|974|980|amount|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IFZ)V|amount|1
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|988|998|saturation|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IFZ)V|saturation|2
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1008|1018|isWolfFood|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IFZ)V|isWolfFood|3
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|945|956|ItemModFood|method|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IFZ)V
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|957|963|String|class|java.lang.String
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1030|1036|amount|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IFZ)V|amount|1
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1038|1048|saturation|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IFZ)V|saturation|2
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1051|1057|amount|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IFZ)V|amount|1
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1063|1073|isWolfFood|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IFZ)V|isWolfFood|3
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1083|1087|name|field|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|name
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1090|1094|name|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IFZ)V|name|0
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1098|1116|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1117|1121|name|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IFZ)V|name|0
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1126|1141|setRegistryName|method|net.minecraftforge.fml.common.registry.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/fml/common/registry/IForgeRegistryEntry;
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1142|1146|name|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|ItemModFood|(Ljava/lang/String;IFZ)V|name|0
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1151|1165|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1166|1177|EatTheWorld|class|com.beetrootmonkey.eattheworld.init.EatTheWorld
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1178|1189|creativeTab|field|com.beetrootmonkey.eattheworld.init.EatTheWorld|creativeTab
+   Method End: ItemModFood(Ljava/lang/String;IFZ)V
    Method Start: registerItemModel(Lnet/minecraft/item/Item;)V
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1108|1112|item|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|registerItemModel|(Lnet/minecraft/item/Item;)V|item|0
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1063|1071|Override|class|java.lang.Override
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1085|1102|registerItemModel|method|com.beetrootmonkey.eattheworld.item.ItemModelProvider|registerItemModel|(Lnet/minecraft/item/Item;)V
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1103|1107|Item|class|net.minecraft.item.Item
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1118|1129|EatTheWorld|class|com.beetrootmonkey.eattheworld.init.EatTheWorld
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1130|1135|proxy|field|com.beetrootmonkey.eattheworld.init.EatTheWorld|proxy
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1136|1156|registerItemRenderer|method|com.beetrootmonkey.eattheworld.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
-      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1166|1170|name|field|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|name
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1244|1248|item|param|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|registerItemModel|(Lnet/minecraft/item/Item;)V|item|0
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1199|1207|Override|class|java.lang.Override
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1221|1238|registerItemModel|method|com.beetrootmonkey.eattheworld.item.ItemModelProvider|registerItemModel|(Lnet/minecraft/item/Item;)V
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1239|1243|Item|class|net.minecraft.item.Item
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1254|1265|EatTheWorld|class|com.beetrootmonkey.eattheworld.init.EatTheWorld
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1266|1271|proxy|field|com.beetrootmonkey.eattheworld.init.EatTheWorld|proxy
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1272|1292|registerItemRenderer|method|com.beetrootmonkey.eattheworld.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java|1302|1306|name|field|com.beetrootmonkey.eattheworld.item.edible.ItemModFood|name
    Method End: registerItemModel(Lnet/minecraft/item/Item;)V
 Class End  : com.beetrootmonkey.eattheworld.item.edible.ItemModFood
 endProcessing "com\beetrootmonkey\eattheworld\item\edible\ItemModFood.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\item\fuel\FuelHandler.java" md5: 23155f2bed2acee312729b7082b1d2dd
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\item\fuel\FuelHandler.java|8|48|com.beetrootmonkey.eattheworld.item.fuel|package|com.beetrootmonkey.eattheworld.item.fuel|(file)
 Class Start: com.beetrootmonkey.eattheworld.item.fuel.FuelHandler
    @|com\beetrootmonkey\eattheworld\item\fuel\FuelHandler.java|185|196|FuelHandler|class|com.beetrootmonkey.eattheworld.item.fuel.FuelHandler
@@ -2288,6 +2361,7 @@ Class End  : com.beetrootmonkey.eattheworld.item.fuel.FuelHandler
 endProcessing "com\beetrootmonkey\eattheworld\item\fuel\FuelHandler.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\item\fuel\IFuel.java" md5: bf5b4a15aa88bc27039f2408108d21dc
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\item\fuel\IFuel.java|8|48|com.beetrootmonkey.eattheworld.item.fuel|package|com.beetrootmonkey.eattheworld.item.fuel|(file)
 Class Start: com.beetrootmonkey.eattheworld.item.fuel.IFuel
    @|com\beetrootmonkey\eattheworld\item\fuel\IFuel.java|68|73|IFuel|class|com.beetrootmonkey.eattheworld.item.fuel.IFuel
@@ -2298,6 +2372,7 @@ Class End  : com.beetrootmonkey.eattheworld.item.fuel.IFuel
 endProcessing "com\beetrootmonkey\eattheworld\item\fuel\IFuel.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\item\fuel\ItemFuel.java" md5: 10ae9d2d8686ae5e947dce5c42735762
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\item\fuel\ItemFuel.java|8|48|com.beetrootmonkey.eattheworld.item.fuel|package|com.beetrootmonkey.eattheworld.item.fuel|(file)
 Class Start: com.beetrootmonkey.eattheworld.item.fuel.ItemFuel
    @|com\beetrootmonkey\eattheworld\item\fuel\ItemFuel.java|269|277|ItemFuel|class|com.beetrootmonkey.eattheworld.item.fuel.ItemFuel
@@ -2322,6 +2397,7 @@ Class End  : com.beetrootmonkey.eattheworld.item.fuel.ItemFuel
 endProcessing "com\beetrootmonkey\eattheworld\item\fuel\ItemFuel.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\item\materials\ModArmorMaterials.java" md5: 62952d9ceab5f7c929782c45717ba68f
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\item\materials\ModArmorMaterials.java|8|53|com.beetrootmonkey.eattheworld.item.materials|package|com.beetrootmonkey.eattheworld.item.materials|(file)
 Class Start: com.beetrootmonkey.eattheworld.item.materials.ModArmorMaterials
    @|com\beetrootmonkey\eattheworld\item\materials\ModArmorMaterials.java|387|404|ModArmorMaterials|class|com.beetrootmonkey.eattheworld.item.materials.ModArmorMaterials
@@ -2341,6 +2417,7 @@ Class End  : com.beetrootmonkey.eattheworld.item.materials.ModArmorMaterials
 endProcessing "com\beetrootmonkey\eattheworld\item\materials\ModArmorMaterials.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\item\materials\ModToolMaterials.java" md5: ef8134a46acdae7df4fe2229a5a70969
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\item\materials\ModToolMaterials.java|8|53|com.beetrootmonkey.eattheworld.item.materials|package|com.beetrootmonkey.eattheworld.item.materials|(file)
 Class Start: com.beetrootmonkey.eattheworld.item.materials.ModToolMaterials
    @|com\beetrootmonkey\eattheworld\item\materials\ModToolMaterials.java|340|356|ModToolMaterials|class|com.beetrootmonkey.eattheworld.item.materials.ModToolMaterials
@@ -2361,6 +2438,7 @@ Class End  : com.beetrootmonkey.eattheworld.item.materials.ModToolMaterials
 endProcessing "com\beetrootmonkey\eattheworld\item\materials\ModToolMaterials.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\item\tools\ItemModAxe.java" md5: 1ade341a91deb8424bd4d212fb37cffa
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\item\tools\ItemModAxe.java|8|49|com.beetrootmonkey.eattheworld.item.tools|package|com.beetrootmonkey.eattheworld.item.tools|(file)
 Class Start: com.beetrootmonkey.eattheworld.item.tools.ItemModAxe
    @|com\beetrootmonkey\eattheworld\item\tools\ItemModAxe.java|352|362|ItemModAxe|class|com.beetrootmonkey.eattheworld.item.tools.ItemModAxe
@@ -2404,6 +2482,7 @@ Class End  : com.beetrootmonkey.eattheworld.item.tools.ItemModAxe
 endProcessing "com\beetrootmonkey\eattheworld\item\tools\ItemModAxe.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\lib\Recipes.java" md5: b09a40f17f86c401b552dde2e548b8d5
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\lib\Recipes.java|8|42|com.beetrootmonkey.eattheworld.lib|package|com.beetrootmonkey.eattheworld.lib|(file)
 Class Start: com.beetrootmonkey.eattheworld.lib.Recipes
    @|com\beetrootmonkey\eattheworld\lib\Recipes.java|663|670|Recipes|class|com.beetrootmonkey.eattheworld.lib.Recipes
@@ -2703,6 +2782,7 @@ Class End  : com.beetrootmonkey.eattheworld.lib.Recipes
 endProcessing "com\beetrootmonkey\eattheworld\lib\Recipes.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\proxy\ClientProxy.java" md5: 7c285cfc99031155c2cbe7f7ca1fe4f3
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\proxy\ClientProxy.java|8|44|com.beetrootmonkey.eattheworld.proxy|package|com.beetrootmonkey.eattheworld.proxy|(file)
 Class Start: com.beetrootmonkey.eattheworld.proxy.ClientProxy
    @|com\beetrootmonkey\eattheworld\proxy\ClientProxy.java|995|1006|ClientProxy|class|com.beetrootmonkey.eattheworld.proxy.ClientProxy
@@ -2752,6 +2832,7 @@ Class End  : com.beetrootmonkey.eattheworld.proxy.ClientProxy
 endProcessing "com\beetrootmonkey\eattheworld\proxy\ClientProxy.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\proxy\CommonProxy.java" md5: 6db38f7ffa252beaa65a585604c48df2
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\proxy\CommonProxy.java|8|44|com.beetrootmonkey.eattheworld.proxy|package|com.beetrootmonkey.eattheworld.proxy|(file)
 Class Start: com.beetrootmonkey.eattheworld.proxy.CommonProxy
    @|com\beetrootmonkey\eattheworld\proxy\CommonProxy.java|1195|1206|CommonProxy|class|com.beetrootmonkey.eattheworld.proxy.CommonProxy
@@ -2811,6 +2892,7 @@ Class End  : com.beetrootmonkey.eattheworld.proxy.CommonProxy
 endProcessing "com\beetrootmonkey\eattheworld\proxy\CommonProxy.java"
 
 startProcessing "com\beetrootmonkey\eattheworld\proxy\ServerProxy.java" md5: ddd14c7ff984c89c1ed492739c53943d
+Cache Hit!
 @|com\beetrootmonkey\eattheworld\proxy\ServerProxy.java|8|44|com.beetrootmonkey.eattheworld.proxy|package|com.beetrootmonkey.eattheworld.proxy|(file)
 Class Start: com.beetrootmonkey.eattheworld.proxy.ServerProxy
    @|com\beetrootmonkey\eattheworld\proxy\ServerProxy.java|301|312|ServerProxy|class|com.beetrootmonkey.eattheworld.proxy.ServerProxy
